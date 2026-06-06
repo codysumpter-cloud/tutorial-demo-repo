@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dir8l7ck1m73u"
-path="res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"
+uid="uid://d3uk7k6o7r1cl"
+path="res://.godot/imported/inndour_sheet.png-36ec03d9e703cddfc1779ee0e8fed1f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/art/ui/icon/Fat_Earth_Banner.png"
-dest_files=["res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"]
+source_file="res://assets/art/enemies/inndour_sheet.png"
+dest_files=["res://.godot/imported/inndour_sheet.png-36ec03d9e703cddfc1779ee0e8fed1f7.ctex"]
 
 [params]
 

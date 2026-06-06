@@ -2,16 +2,17 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dir8l7ck1m73u"
-path="res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"
+uid="uid://bnccvnaloqnte"
+path="res://.godot/imported/signal.svg-65741ce388cd0a6b19f1b195a997cce3.ctex"
 metadata={
+"has_editor_variant": true,
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/art/ui/icon/Fat_Earth_Banner.png"
-dest_files=["res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"]
+source_file="res://addons/script-ide/outline/icon/signal.svg"
+dest_files=["res://.godot/imported/signal.svg-65741ce388cd0a6b19f1b195a997cce3.ctex"]
 
 [params]
 
@@ -38,3 +39,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=true
+editor/convert_colors_with_editor_theme=false

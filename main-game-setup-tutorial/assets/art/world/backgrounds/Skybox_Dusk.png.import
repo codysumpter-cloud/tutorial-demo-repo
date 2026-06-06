@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://duc61yo16movk"
-path="res://.godot/imported/inndour_sheet.png-a171cb3f00064d85d723fdc20e2ab034.ctex"
+uid="uid://bg6ovpb27jlpy"
+path="res://.godot/imported/Skybox_Dusk.png-54a88f466f827aebf6e09d8100417c20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/inndour_sheet.png"
-dest_files=["res://.godot/imported/inndour_sheet.png-a171cb3f00064d85d723fdc20e2ab034.ctex"]
+source_file="res://assets/art/world/backgrounds/Skybox_Dusk.png"
+dest_files=["res://.godot/imported/Skybox_Dusk.png-54a88f466f827aebf6e09d8100417c20.ctex"]
 
 [params]
 

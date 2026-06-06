@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dir8l7ck1m73u"
-path="res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"
+uid="uid://bwehac8qlixsd"
+path="res://.godot/imported/Decoration_Layer_Tiles.png-6a639bf9e830581a5d2e36a617d9dfb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/art/ui/icon/Fat_Earth_Banner.png"
-dest_files=["res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"]
+source_file="res://assets/art/world/tilesets/Decoration_Layer_Tiles.png"
+dest_files=["res://.godot/imported/Decoration_Layer_Tiles.png-6a639bf9e830581a5d2e36a617d9dfb4.ctex"]
 
 [params]
 

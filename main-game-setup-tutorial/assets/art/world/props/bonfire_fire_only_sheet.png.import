@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dir8l7ck1m73u"
-path="res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"
+uid="uid://2tgi05d144bc"
+path="res://.godot/imported/bonfire_fire_only_sheet.png-0a119921faeb807f5e1e0e5cf215edb5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/art/ui/icon/Fat_Earth_Banner.png"
-dest_files=["res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"]
+source_file="res://assets/art/world/props/bonfire_fire_only_sheet.png"
+dest_files=["res://.godot/imported/bonfire_fire_only_sheet.png-0a119921faeb807f5e1e0e5cf215edb5.ctex"]
 
 [params]
 

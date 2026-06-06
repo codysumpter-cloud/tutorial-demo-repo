@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dir8l7ck1m73u"
-path="res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"
+uid="uid://dblrh4gk44531"
+path="res://.godot/imported/Clouds_Only_Night.png-f877c7daccbce34611e9ba085c19d106.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/art/ui/icon/Fat_Earth_Banner.png"
-dest_files=["res://.godot/imported/Fat_Earth_Banner.png-92453fff750cb02aa5ec3f661cd6fe72.ctex"]
+source_file="res://assets/art/world/backgrounds/Clouds_Only_Night.png"
+dest_files=["res://.godot/imported/Clouds_Only_Night.png-f877c7daccbce34611e9ba085c19d106.ctex"]
 
 [params]
 
