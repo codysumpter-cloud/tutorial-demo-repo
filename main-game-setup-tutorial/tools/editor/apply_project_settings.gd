@@ -1,7 +1,7 @@
-#@tool
+@tool
 extends EditorScript
 
-## Includes relevant project settings
+## Applies the baseline project settings used by this project.
 const PROJECT_SETTINGS : Dictionary = {
 	"display/window/size/viewport_width": 640,
 	"display/window/size/viewport_height": 360,
@@ -28,6 +28,7 @@ const RENDER_2D_LAYERS : Dictionary = {
 	3: "Ember Glow",
 }
 
+
 func _run() -> void:
 	_apply_project_settings()
 	_apply_layer_names()
@@ -39,9 +40,11 @@ func _run() -> void:
 	else:
 		push_error("Project settings could not be saved. Error: " + str(error))
 
+
 func _apply_project_settings() -> void:
 	for setting_path: String in PROJECT_SETTINGS:
 		ProjectSettings.set_setting(setting_path, PROJECT_SETTINGS[setting_path])
+
 
 func _apply_layer_names() -> void:
 	for layer_number: int in PHYSICS_2D_LAYERS:
