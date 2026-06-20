@@ -12,7 +12,8 @@ For the version shown in a specific video, use the corresponding repository tag 
 | Tutorial                              | Video                                                                         | Project Version                                                      |
 | ------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Git and GitHub Workflow for Godot     | [How To Use Git With Godot](https://youtu.be/9yfNX0OdSAw?si=Zy0y8DdWJb68yOdq) | [View the Git tutorial snapshot](https://github.com/fat-earth-studios/tutorial-demo-repo/tree/video-0-git-tutorial) |
-| Setting Up a Godot Project Foundation | [Godot Project Foundation Setup](https://youtu.be/V4SO7foDoW4)                | [View the Project Foundation tutorial snapshot](https://github.com/fat-earth-studios/tutorial-demo-repo/tree/video-1-project-foundation)                                 |
+| Setting Up a Godot Project Foundation | [Godot Project Foundation Setup](https://youtu.be/V4SO7foDoW4)                | [View the Project Foundation tutorial snapshot](https://github.com/fat-earth-studios/tutorial-demo-repo/tree/video-1-project-foundation) |
+| Configuring Godot Project Settings and Conventions | [Godot Project Settings and Conventions](https://youtu.be/5-Ev2ZIQgf4) | [View the Project Settings tutorial snapshot](https://github.com/fat-earth-studios/tutorial-demo-repo/tree/video-1b-project-settings) |
 
 Each tagged snapshot preserves the state of the repository associated with that tutorial, while the default branch continues to receive the additions shown in future videos.
 

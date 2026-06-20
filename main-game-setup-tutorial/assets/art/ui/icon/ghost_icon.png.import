@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5scpgajbfi0d"
-path="res://.godot/imported/Fat_Earth_Logo.png-92bf8ab75a4da05fc399e2d2c9e59e65.ctex"
+uid="uid://4g8iyeg82o76"
+path="res://.godot/imported/ghost_icon.png-7ad5c3bd7fd44969a4918cc7d378f31d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/art/ui/icon/Fat_Earth_Logo.png"
-dest_files=["res://.godot/imported/Fat_Earth_Logo.png-92bf8ab75a4da05fc399e2d2c9e59e65.ctex"]
+source_file="res://assets/art/ui/icon/ghost_icon.png"
+dest_files=["res://.godot/imported/ghost_icon.png-7ad5c3bd7fd44969a4918cc7d378f31d.ctex"]
 
 [params]
 

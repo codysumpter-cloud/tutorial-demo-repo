@@ -27,11 +27,23 @@ func _ready() -> void:
 	load_level(TEST_LEVEL_02)
 
 
+func _input(event: InputEvent) -> void:
+	if not OS.is_debug_build():
+		return
+
+	if event.is_action_pressed(&"debug_quit"):
+		quit_game()
+
+
 ## Called for loading a level scene.
 ## NOTE: The input level_scene must extend BaseLevel
 func load_level(level_scene : String) -> void:
 	# Make sure this is called during idle time
 	_deferred_load_level.call_deferred(level_scene)
+
+func quit_game() -> void:
+	get_tree().root.propagate_notification(NOTIFICATION_WM_CLOSE_REQUEST)
+	get_tree().quit()
 
 func _deferred_load_level(level_scene_uid : String) -> void:
 	if _current_level != null:
