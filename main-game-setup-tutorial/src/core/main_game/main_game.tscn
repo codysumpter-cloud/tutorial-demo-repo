@@ -35,33 +35,6 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="CenterContainer" type="CenterContainer" parent="HudLayer/HudRoot" unique_id=1539158657]
-visible = false
-layout_mode = 1
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
-grow_horizontal = 2
-grow_vertical = 2
-
-[node name="MarginContainer" type="MarginContainer" parent="HudLayer/HudRoot/CenterContainer" unique_id=268995724]
-layout_mode = 2
-
-[node name="VBoxContainer" type="VBoxContainer" parent="HudLayer/HudRoot/CenterContainer/MarginContainer" unique_id=1816245045]
-layout_mode = 2
-
-[node name="OptionButton" type="Button" parent="HudLayer/HudRoot/CenterContainer/MarginContainer/VBoxContainer" unique_id=1520741936]
-layout_mode = 2
-text = "Play Game"
-
-[node name="OptionButton2" type="Button" parent="HudLayer/HudRoot/CenterContainer/MarginContainer/VBoxContainer" unique_id=1399377569]
-layout_mode = 2
-text = "Options"
-
-[node name="OptionButton3" type="Button" parent="HudLayer/HudRoot/CenterContainer/MarginContainer/VBoxContainer" unique_id=1481046030]
-layout_mode = 2
-text = "Mystery Button"
-
 [node name="PauseLayer" type="CanvasLayer" parent="." unique_id=767098184]
 process_mode = 2
 layer = 20

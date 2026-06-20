@@ -36,6 +36,7 @@ window/size/window_width_override=2000
 window/size/window_height_override=1200
 window/stretch/mode="canvas_items"
 window/stretch/scale_mode="integer"
+window/hdr_2d=true
 
 [editor]
 
