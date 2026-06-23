@@ -14,3 +14,7 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Backup of old Godot Versions
+main_game_setup_tutorial_(4.6)/
+
